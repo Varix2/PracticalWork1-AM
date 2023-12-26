@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754491998234",
+    "project_id": "practicalwork1-31e27",
+    "storage_bucket": "practicalwork1-31e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754491998234:android:d7f67350c4da5b1ef111a3",
+        "android_client_info": {
+          "package_name": "pt.isec.a2023108361.practicalwork1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVikWp0TGo0p460M3a1-yorTRpr44t6XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
